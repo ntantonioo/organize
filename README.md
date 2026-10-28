@@ -4,8 +4,6 @@
 
 O **Organize** é um projeto desenvolvido em Python com o objetivo de facilitar a organização de tarefas, o planejamento de atividades e o acompanhamento da produtividade pessoal.
 
-Mais do que um simples gerenciador de tarefas, o Organize busca auxiliar o usuário na definição de prioridades, no cumprimento de prazos e na visualização de seu progresso, promovendo uma rotina mais organizada e eficiente.
-
 ## 🎯 Objetivos
 
 - Facilitar o planejamento e a organização das atividades diárias.
